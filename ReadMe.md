@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on artificial intelligence, machine learning and deep learning. 
+I'm currently working on artificial intelligence, machine learning, deep learning, computer vision, generative ai and agentic ai. 
 
 
 ## 🌐 Socials:
