@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on artificial intelligence, machine learning, deep learning, computer vision, generative ai and agentic ai. 
+I'm an AI Engineer building intelligent, autonomous systems at the intersection of Generative AI, Computer Vision, and Agentic Workflows. 
 
 
 ## 🌐 Socials:
